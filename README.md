@@ -27,6 +27,10 @@ Ejemplo de formato de datos:
 |-------------------------|------------------------|---------------------|-------------------|-------------------|
 | Hamburguesas El Corral | Calle 45 #27-36       | Hamburguesas       | 12:00 PM - 10:00 PM | ⭐⭐⭐⭐ 4.5         |
 | Pizza Ñera             | Carrera 33 #55-12     | Pizza              | 1:00 PM - 11:00 PM | ⭐⭐⭐⭐⭐ 5.0        |
+| santanderburgerbar     | Calle 32 # 26-13      | Hamburguesas       | 12:00 M - 11:00 PM | ⭐⭐⭐⭐⭐ 5.0        |
+| michoclobga            | CRA 36 # 41-22 PRADO  | Arepas             | 4:00 PM - 11:00 PM | ⭐⭐⭐⭐⭐ 5.0        |
+| bucarinipizza          | Cra.29 # 35-35 Aurora | Pizza              | 11:00 AM - 11:00 PM | ⭐⭐⭐⭐⭐ 5.0       |
+
 
 ## Contribuir
 
